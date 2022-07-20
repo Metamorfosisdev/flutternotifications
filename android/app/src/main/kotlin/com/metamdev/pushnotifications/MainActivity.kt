@@ -1,4 +1,4 @@
-package com.example.pushnotifications
+package com.metamdev.pushnotifications
 
 import io.flutter.embedding.android.FlutterActivity
 
